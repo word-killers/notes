@@ -1,5 +1,7 @@
 # Odkazy
-- http://nvie.com/posts/a-successful-git-branching-model/
+- http://webpy.org/
+- http://gitpython.readthedocs.org/en/latest/
+- http://nvie.com/posts/a-successful-git-branching-model/ - neco ke zpusobu verzovani ?
 - https://github.com/knsv/mermaid - nástroj na generování diagramů 
   - dokumentace: http://knsv.github.io/mermaid/#mermaid
 - https://github.com/galeo/pagedown-editor-only - dost podobný editor ve web.py, už nějakou dobu neudržovaný (nepodařilo se rozběhnout)
@@ -7,6 +9,7 @@
 - https://www.mathjax.org/ - knihovna na vykreslování vzorců do HTML, napsaná v JS, asi použitá i na šaolinech, ale vykreslování celkem pomalé a probíhá při každém načtení stránky znovu
 - http://pad.haroopress.com/page.html?f=first-release
 - https://github.com/waylan/Python-Markdown
+  - http://pythonhosted.org/Markdown/extensions/api.html#integrating_into_markdown
 - https://github.com/trentm/python-markdown2
 - https://github.com/ncornette/Python-Markdown-Editor
 - https://github.com/FND/markdown-checklist
@@ -18,3 +21,5 @@
 - https://github.com/lepture/mistune-contrib
 - https://github.com/cpgillem/markdown_publisher
 - https://github.com/DreamScripter/md_renderer
+- http://oauth.net/2/ - knihovna pro autorizaci (prihlasovani ke gitu)
+  - https://pypi.python.org/pypi/oauthlib
