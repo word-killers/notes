@@ -1,0 +1,56 @@
+Knihovny a editor:
+https://github.com/waylan/Python-Markdown
+https://github.com/trentm/python-markdown2
+https://github.com/ncornette/Python-Markdown-Editor
+
+Obecne implementaci pozadovanych rozsireni lze realizovt pomoci extenci pro Markdown knihovnu v pythonu, at jiz hotovych, tak vami vytvorenych:
+https://github.com/FND/markdown-checklist
+https://github.com/airtonix/python-markdown-qrcode
+https://github.com/cmacmackin/markdown-include
+https://github.com/wnielson/markdown-macros
+
+Slide
+https://github.com/ogom/python-mcider
+
+Dalsi:
+https://github.com/lepture/mistune
+https://github.com/lepture/mistune-contrib
+https://github.com/cpgillem/markdown_publisher
+https://github.com/DreamScripter/md_renderer
+
+Tak to by snad melo stacit, zbytek nechavam na vas.
+===============================================================================================================================
+
+Ok, pak posilam dalsi:
+
+http://pad.haroopress.com/page.html?f=first-release
+
+Pulka dokumentace je rozsypanej caj, ale to podstate je videt - zajimave jsou jejich rozsireni (s vyuzitim existujici syntaxe): tasklist, prezentace, diagramy.
+===============================================================================================================================
+
+Omlouvam se, ze to do vas takhle sypu, ale kdyz neco najdu, tak vam to poslu:
+
+http://knsv.github.io/mermaid/#mermaid
+
+dokumentace ke kresleni diagramu, tohle bych v praci opravdu ocenil.
+===============================================================================================================================
+
+Kdyz jsme se jeste bavili o sazbe matiky: https://www.mathjax.org/
+
+Kazdopadne matika neni v projektove dokumentaci prioritni.
+===============================================================================================================================
+
+Dobry vecer,
+posilam jeste probirane "rozsireni":
+
+https://github.com/knsv/mermaid
+https://github.com/galeo/pagedown-editor-only <<<---- editor pouzitelny s web.py
+
+https://github.com/jmcmanus/pagedown-extra <<--- rozsireni pro editor vyse
+===============================================================================================================================
+
+Dobry den,
+
+pokud chcete nastroj psat v pythonu nemam s tim problem, stejne tak verzovani pomoci gitu jen uvitam (implementace verzovani na urovni napr. zaznamu v databazi by nejspis nebyla tak efektivni). Idealne, ale to bysme si jeste upresnili, by bylo implementovat - vynucovat pres git nejake workflow dokumentu - napr. jako ja git-flow (http://nvie.com/posts/a-successful-git-branching-model/). 
+
+Obecne predpokladam, ze na nejake uvodni schuzce bysme udelali, mensi brainstorming jak to udelat, aby vysledek byl pouzitelny.
