@@ -1,4 +1,4 @@
-Specifikace požadavků
+#Specifikace požadavků
 
 - online editor používající značkovací jazyk (MarkDown)
 - podpora verzování - git
