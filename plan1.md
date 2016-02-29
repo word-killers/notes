@@ -1,0 +1,9 @@
+# Plán na první týden
+- Specifikace modelu verzování
+  - release a devel větve, ...
+- Práce s knihovnami v Pythonu
+  - Web.py, Markdown, GitPython, ...
+- Plánování správy uživatelů
+  - vlastní přihlašování vs. git (přes OAuth)
+- Plánování rozšíření syntaxe Markdown
+  - komentáře, anotace, ...
