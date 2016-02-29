@@ -24,3 +24,5 @@
 - https://github.com/DreamScripter/md_renderer
 - http://oauth.net/2/ - knihovna pro autorizaci (prihlasovani ke gitu)
   - https://pypi.python.org/pypi/oauthlib
+___
+Python cheat sheet: http://www.astro.up.pt/~sousasag/Python_For_Astronomers/Python_qr.pdf
