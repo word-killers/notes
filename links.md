@@ -1,4 +1,5 @@
-# Odkazy
+﻿# Odkazy
+- https://github.com/tylingsoft/markdown-plus
 - http://webpy.org/
 - http://gitpython.readthedocs.org/en/latest/
 - http://nvie.com/posts/a-successful-git-branching-model/ - neco ke zpusobu verzovani ?
