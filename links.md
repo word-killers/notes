@@ -24,7 +24,8 @@
 - https://github.com/DreamScripter/md_renderer
 - http://oauth.net/2/ - knihovna pro autorizaci (prihlasovani ke gitu)
   - https://pypi.python.org/pypi/oauthlib
-
+- https://khan.github.io/KaTeX/ - KaTeX, sazba TeXu pro web v JS, asi lepsi nez Mathjax
+- (https://khan.github.io/ -- zajimave projekty od Khanovo akademie btw.)
 ___
 
 Python cheat sheet: http://www.astro.up.pt/~sousasag/Python_For_Astronomers/Python_qr.pdf
