@@ -1,10 +1,10 @@
-Jan Samek 
- - šéf, hlavní kodér
+ï»¿Jan Samek 
+ - Å¡Ã©f, hlavnÃ­ kodÃ©r
 
-Tomáš Šimandl
- - kodér, psaní dokumentace
+TomÃ¡Å¡ Å imandl
+ - kodÃ©r, psanÃ­ dokumentace
 
-Jiøina Chocholková
- - tester, pssaní dokumentace
+JiÅ™ina ChocholkovÃ¡
+ - tester, psanÃ­ dokumentace
 
-Všechny zbylé kategorie se rozdìlí podle schopností a volného èasu jednotlivcù.
+VÅ¡echny zbylÃ© kategorie se rozdÄ›lÃ­ podle schopnostÃ­ a volnÃ©ho Äasu jednotlivcÅ¯.

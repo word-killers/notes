@@ -1,13 +1,17 @@
-Tomáš Šimandl [3]
- - Návrh UI
- - Promyšlení uitıch technologii a postupù
+ï»¿TomÃ¡Å¡ Å imandl [3]
+ - NÃ¡vrh UI
+ - PromyÅ¡lenÃ­ uÅ¾itÃ½ch technologii a postupÅ¯
 
 Jan Samek [10]
- - Základ backendu
- - Implemetování existujícího kódu do našeho projektu
+ - ZÃ¡klad backendu
+ - ImplemetovÃ¡nÃ­ existujÃ­cÃ­ho kÃ³du do naÅ¡eho projektu
 
-Jiøina Chocholková
- - 
+JiÅ™ina ChocholkovÃ¡[3]
+ - SepsÃ¡nÃ­ specifikace poÅ¾adavkÅ¯
 
-Všichni
- - Konzultace našeho návrhu a nápadù se zadadvatelem
+VÅ¡ichni
+ - Konzultace naÅ¡eho nÃ¡vrhu a nÃ¡padÅ¯ se zadadvatelem
+ 
+ PoznÃ¡mky:
+ GanttÅ¯v diagram a Wbo
+ PlÃ¡n projektu
