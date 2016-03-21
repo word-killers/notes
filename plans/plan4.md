@@ -1,7 +1,7 @@
 Tomáš Šimandl[]
 funkčnost hlavní obrazovky
 
-Jan Samek[]
+Jan Samek[5]
 Zprovoznění automatického testování
 
 Jiřina Chocholková[6]
