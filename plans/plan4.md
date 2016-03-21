@@ -1,4 +1,4 @@
-Tomáš Šimandl[]
+Tomáš Šimandl[20]
 funkčnost hlavní obrazovky
 
 Jan Samek[5]
