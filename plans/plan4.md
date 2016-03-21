@@ -1,8 +1,8 @@
-Tomáš Šimandl[]
-funkènost hlavní obrazovky
+TomÃ¡Å¡ Å imandl[]
+funkÄnost hlavnÃ­ obrazovky
 
 Jan Samek[]
-Zprovoznìní automatického testování
+ZprovoznÄ›nÃ­ automatickÃ©ho testovÃ¡nÃ­
 
-Jiøina Chocholková[]
-uivatelské rozhraní pro verzování dokumentu
+JiÅ™ina ChocholkovÃ¡[6]
+uÅ¾ivatelskÃ© rozhranÃ­ pro verzovÃ¡nÃ­ dokumentu
