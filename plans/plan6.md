@@ -1,5 +1,6 @@
 Tomáš Šimandl
-
+- dodelat responzivni design [3]
+- 
 
 Jan Samek
 
