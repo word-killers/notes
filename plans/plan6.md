@@ -1,6 +1,6 @@
 Tomáš Šimandl
 - dodelat responzivni design [3]
-- 
+- zahrnout javascript do coverage [10]
 
 Jan Samek
 
