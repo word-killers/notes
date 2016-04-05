@@ -7,5 +7,5 @@ Jan Samek
 - zprovoznění produkčního serveru (Apache, Lighttpd) [5]
 
 Jiřina Chocholková
-- analýza a design
-- úprava vzhledu okna pro vytváření tabulek
+- analýza a design [4]
+- úprava vzhledu okna pro vytváření tabulek [6]
