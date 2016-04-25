@@ -1,10 +1,10 @@
-Tomáš Šimandl
- - Náhled ve velikosti A4 [3]
- - Testování speciálních pøípadù pro Markdown konvertor[3]
+TomÃ¡Å¡ Å imandl
+ - NÃ¡hled ve velikosti A4 [3]
+ - TestovÃ¡nÃ­ speciÃ¡lnÃ­ch pÅ™Ã­padÅ¯ pro Markdown konvertor[3]
 
 Jan Samek
  
 
-Jiøina Chocholková
- - pokraèování testù
- - Zaèít psát uivatelskou pøíruèku
+JiÅ™ina ChocholkovÃ¡
+ - pokraÄovÃ¡nÃ­ testÅ¯ [5]
+ - ZaÄÃ­t psÃ¡t uÅ¾ivatelskou pÅ™Ã­ruÄku [3]
