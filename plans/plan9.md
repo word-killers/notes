@@ -3,7 +3,7 @@ Tomáš Šimandl
  - Testování speciálních případů pro Markdown konvertor[3]
 
 Jan Samek
- 
+ - Dokončení verzování [10]
 
 Jiřina Chocholková
  - pokračování testů [5]
