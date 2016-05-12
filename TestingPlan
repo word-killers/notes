@@ -1,0 +1,57 @@
+## Otestování tlačítek pro práci s textem
+Po stisku talčítek se v editoru zobrazí požadovaný symbol. Po dopsání textu ke znakům zkontrolovat zda je text správně zformátován v živém náhledu.
+
+| Tlačítko | Znak | 
+|----|---|
+| H1 | # |
+| H2 | ## |
+| H3 | ### |
+| H4 | #### |
+| H5 | ##### |
+| H6 | ###### |
+| B - bold | `++  ++` |
+| I - italic | `~~  ~~` |
+| U - underline | `__  __` |
+| S - strikethrought | `--  --` |
+| T - typewriting | `` `  ` `` |
+| ++ Zarovnání ++ |
+| Vlevo | {{ | 
+| Vpravo | }} |
+| Do bloku | {} |
+| Na střed | }{ |
+| Číslování | 1. |
+| Odrážky | - |
+| Include | {\!  !} |
+| Obrázek | `![alt text](image path "Tooltip text")` |
+| Graf | ```` ```graph\n\n ``` ```` |
+| Code | ```` ``` \n\n ``` ````|
+
+## Komentáře, Anotace
+
+* Komentář - //text
+* Anotace - @[text]
+
+Komentář i anotace se zobrazují v živém náhledu. V levém panelu v záložce Comments je zobrazen seznam vytvořených komentářů.
+
+## Ostatní
+
+Vytvořte graf a vyzkoušejte funkčnost tlačítka Render Mermaid. Je-li tlačítko zelené grafy se vykreslují. Je-li tlačítko červené grafy se nevykreslují a je zobrazen pouze textový popis grafu.
+
+Vytvořte text obsahující komentáře a anotace a otevře náhled "Preview". V náhledu nejsou vidět ani komentáře ani anotace.
+
+Vytiskněte a exportujte vytvořený soubor. Obsahuje-li soubor anotace, je zobrazen dialog s anotacemi. Vybrané anotace nejsou ve výsledném dokumentu vidět.
+
+Vytvořte text obsahující nadpisy. Obsah dokumentu je k zobrazení v levém panelu v záložce Content.
+
+Napište do editoru dostatečně dlouhý text a vyzkoušejte souběžné posouvání editoru a náhledu.
+
+## Verzování
+
+Přihlašte se tlačítkem Login. Po přihlášení stiskněte tlačítko "Set user". Zobrazí se dialog s jedním textovým polem. Napište své uživatelské jméno nebo jméno týmu, který spravujete. Po potvrzení tlačítkem ok se zobrazí seznam dostupných repositářů. Po vybrání repositáře se dialog zavře. V levém panelu pod záložkou "File" je zobrazen obsah repositáře. Vyberte soubor, který chcete upravovat. Soubor se načte do editoru a zobrazí se jeho živý náhled. Soubor upravte a stiskněte tlačítko "Commit". Po chvíli se zobrazí výsledek commitu. Soubor by měl být nahrán na GitHub.
+Vytvořte nový soubor, napište do něj text a stiskněte tlačítko "Commit". 
+Zkuste provést externí změny v repositáři a stáhnout změny tlačítkem "Pull".
+Odhlašte se. Editor je prázdný není zobrazen žádný náhled a všechny záložy v postraním panelu neobsahují žádná data.
+
+## Změna velikosti panelů
+
+Vyzkoušejte zmenšit a zvětšit jednotlivé panely(Levý panel, Editor, Náhled). Je-li levý panel nebo náhled příliš malý, jsou skryti a je zobrazeno tlačítko pro jejich zobrazení.
